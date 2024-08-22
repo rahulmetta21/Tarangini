@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8bc50180.css",
-    "main.js": "/static/js/main.064b7a45.js",
-    "static/js/453.e5390213.chunk.js": "/static/js/453.e5390213.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.8bc50180.css.map": "/static/css/main.8bc50180.css.map",
-    "main.064b7a45.js.map": "/static/js/main.064b7a45.js.map",
-    "453.e5390213.chunk.js.map": "/static/js/453.e5390213.chunk.js.map"
+    "main.css": "/Tarangini/static/css/main.8bc50180.css",
+    "main.js": "/Tarangini/static/js/main.fa04a5d4.js",
+    "static/js/453.e5390213.chunk.js": "/Tarangini/static/js/453.e5390213.chunk.js",
+    "service-worker.js": "/Tarangini/service-worker.js",
+    "index.html": "/Tarangini/index.html",
+    "main.8bc50180.css.map": "/Tarangini/static/css/main.8bc50180.css.map",
+    "main.fa04a5d4.js.map": "/Tarangini/static/js/main.fa04a5d4.js.map",
+    "453.e5390213.chunk.js.map": "/Tarangini/static/js/453.e5390213.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8bc50180.css",
-    "static/js/main.064b7a45.js"
+    "static/js/main.fa04a5d4.js"
   ]
 }
