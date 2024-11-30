@@ -3,17 +3,16 @@ import { getAnalytics } from "firebase/analytics";
 import { getAuth, signInWithPopup, signOut, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyA9onouFQRkhRm40_CaP3WtPzSQGGERP8Y",
-  authDomain: "tarangini-b7fa0.firebaseapp.com",
-  projectId: "tarangini-b7fa0",
-  storageBucket: "tarangini-b7fa0.appspot.com",
-  messagingSenderId: "129185514747",
-  appId: "1:129185514747:web:daa03d4ec8a904e41f1c5e",
-  measurementId: "G-41K900R7E4"
+  apiKey: "AIzaSyCyBYKFy7yTp0BM-D2X3dizMfLT4nAvRJA",
+  authDomain: "tarangini-da482.firebaseapp.com",
+  projectId: "tarangini-da482",
+  storageBucket: "tarangini-da482.firebasestorage.app",
+  messagingSenderId: "268758791474",
+  appId: "1:268758791474:web:ffd35d4f82f4cc2929132b",
+  measurementId: "G-JH57Y7Y930"
 };
-
 
 
 
